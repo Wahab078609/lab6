@@ -1,1 +1,17 @@
-# lab6
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main()
+    {
+        List<string> groceries = new List<string>
+        {
+            "Milk",
+            "Eggs",
+            "Bread",
+            "Butter",
+            "Apples";
+        }        
+    }
+}
